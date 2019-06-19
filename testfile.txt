@@ -1,5 +1,4 @@
 ladhfljahdsfj
 
-day la branch master
-o day minh se them vai dong cho branch master
-abcdefg
+day la file testfile sau khi merge
+
